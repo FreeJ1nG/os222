@@ -14,16 +14,16 @@ permalink: /LINKS/.
 
 # LINKS
 
-1. [One](https://stackoverflow.com/)<br>
+1. [Stack Overflow](https://stackoverflow.com/)<br>
 The best platform to get my daily debug help :)
 
-2. [Two](https://www.google.com/)<br>
+2. [Mr. Google](https://www.google.com/)<br>
 My best search engine friend :>
 
-3. [Three](https://scele.cs.ui.ac.id/)<br>
+3. [Scele CS UI](https://scele.cs.ui.ac.id/)<br>
 A platform that helps me see any available resources and provide forums for my question.
 
-4. [Four](https://osp4diss.vlsm.org/W01-01.html)<br>
+4. [OS Site](https://osp4diss.vlsm.org/W01-01.html)<br>
 Helps a lot with setting up the VM <3
 
 <br>

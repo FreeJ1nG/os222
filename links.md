@@ -1,7 +1,8 @@
 ---
-permalink: /LINKS/.
+permalink: /LINKS/
 title: LINKS
 ---
+
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
@@ -11,25 +12,25 @@ title: LINKS
 [TARBALL](SandBox/cbkadal.tar.xz) ---
 [GITHUB]({{ site.githublink }})
 <br>
+
 <hr>
 
 # LINKS
 
 1. [Stack Overflow](https://stackoverflow.com/)<br>
-The best platform to get my daily debug help :)
+   The best platform to get my daily debug help :)
 
 2. [Mr. Google](https://www.google.com/)<br>
-My best search engine friend :>
+   My best search engine friend :>
 
 3. [Scele CS UI](https://scele.cs.ui.ac.id/)<br>
-A platform that helps me see any available resources and provide forums for my question.
+   A platform that helps me see any available resources and provide forums for my question.
 
 4. [OS Site](https://osp4diss.vlsm.org/W01-01.html)<br>
-Helps a lot with setting up the VM <3
+   Helps a lot with setting up the VM <3
 
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
 <br>
-

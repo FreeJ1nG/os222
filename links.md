@@ -39,7 +39,7 @@ A storage space that helps us remotely access everything, even in different oper
 
 ## Week 2
 1. [Vim Cheat Sheet](https://monovm.com/blog/vim-cheat-sheet/)<br>
-Lots of helpful vim shortcuts. Should definitely check it out if you feel like vim is a hadicapped text editor.
+Lots of helpful vim shortcuts. Should definitely check it out if you feel like vim is a handicapped text editor.
 
 2. [Askubuntu](https://askubuntu.com/)<br>
 Pretty helpful forum for ubuntu and alike. Pretty much a stackoverflow for ubuntu :).

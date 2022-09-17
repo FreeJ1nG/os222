@@ -15,3 +15,13 @@ ZCZC W01 30 L03 GitHub related
 ZCZC W01 20 L04 GitHub Pages related
 ZCZC W01 5 L05 QUIZ
 ZCZC W01 300 L09 Weekly Assignments
+ZCZC W02 20 L00 General, etc.
+ZCZC W02 15 L01 SCELE/Discord related
+ZCZC W02 110 L02 ZOOM meetings related
+ZCZC W02 5 L03 GitHub related
+ZCZC W02 14 L04 GitHub Pages related
+ZCZC W02 6 L05 QUIZ
+ZCZC W02 120 L09 Weekly Assignments
+ZCZC W02 300 L21 Customizing my .zshrc for a customized terminal look
+ZCZC W02 30 L26 Created my own GnuPG key
+ZCZC W02 10 L64 Helped a friend with a bug they were having

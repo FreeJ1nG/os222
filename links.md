@@ -41,6 +41,13 @@ A storage space that helps us remotely access everything, even in different oper
 1. [Vim Cheat Sheet](https://monovm.com/blog/vim-cheat-sheet/)<br>
 Lots of helpful vim shortcuts. Should definitely check it out if you feel like vim is a handicapped text editor.
 
+2. [GPG Keys Basic](https://security.gatech.edu/pgpbasics)<br>
+Shows the basic of GPG Keys, Cryptography, and Web Trust system in general. Helps you get a better grasp of the system.
+
+## Week 3
+1. [What is a disk partition?](https://www.techtarget.com/searchstorage/definition/partition#:~:text=A%20partition%20is%20a%20logical,were%20a%20distinct%20hard%20drive.)<br>
+Helps explain about disk partitioning that we did on WEEK 3. Go ahead and look at this if you don't fully understand Disk Partitioning.
+
 2. [Askubuntu](https://askubuntu.com/)<br>
 Pretty helpful forum for ubuntu and alike. Pretty much a stackoverflow for ubuntu :).
 

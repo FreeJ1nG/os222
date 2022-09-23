@@ -25,3 +25,13 @@ ZCZC W02 120 L09 Weekly Assignments
 ZCZC W02 300 L21 Customizing my .zshrc for a customized terminal look
 ZCZC W02 30 L26 Created my own GnuPG key
 ZCZC W02 10 L64 Helped a friend with a bug they were having
+ZCZC W03 20 L00 General, etc.
+ZCZC W03 20 L01 SCELE/Discord related
+ZCZC W03 120 L02 ZOOM meetings related
+ZCZC W03 5 L03 GitHub related
+ZCZC W03 10 L04 GitHub Pages related
+ZCZC W03  3 L05 QUIZ
+ZCZC W03 99 L09 Weekly Assignments
+ZCZC W03 300 L73 Playing Dota 2
+ZCZC W03 3360 L84 Sleep
+ZCZC W03 240 L88 Swimming

@@ -51,7 +51,7 @@ Helps explain about disk partitioning that we did on WEEK 3. Go ahead and look a
 2. [Askubuntu](https://askubuntu.com/)<br>
 Pretty helpful forum for ubuntu and alike. Pretty much a stackoverflow for ubuntu :).
 
-## Week 3
+## Week 4
 1. [Bash scripting tutorial](https://linuxconfig.org/bash-scripting-tutorial)<br>
 A good site that shows how to make bash script. Check it out if you find bash hard.
 

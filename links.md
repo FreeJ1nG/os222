@@ -55,7 +55,7 @@ Pretty helpful forum for ubuntu and alike. Pretty much a stackoverflow for ubunt
 1. [Bash scripting tutorial](https://linuxconfig.org/bash-scripting-tutorial)<br>
 A good site that shows how to make bash script. Check it out if you find bash hard.
 
-2. [Debian Packages](https://www.debian.org/distrib/packages)
+2. [Debian Packages](https://www.debian.org/distrib/packages)<br>
 A good site to show packages available for your VM. Pretty cool to see what the packages installed are for.
 
 <br>

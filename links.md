@@ -58,6 +58,13 @@ A good site that shows how to make bash script. Check it out if you find bash ha
 2. [Debian Packages](https://www.debian.org/distrib/packages)<br>
 A good site to show packages available for your VM. Pretty cool to see what the packages installed are for.
 
+## Week 5
+1. [How to create backup VM(s) on Virtualbox](https://www.osradar.com/how-to-backup-vms-on-virtualbox/)<br>
+This site shows how to create a backup of the VM you have on Virtualbox. I followed some of the stuff here to learn how backup and snapshots are created.
+
+2. [How to create a Makefile file](https://www.youtube.com/watch?v=aw9wHbFTnAQ)<br>
+If you find Makefile confusing, go ahead and take a look at this video. It helped me make the Makefile for POP Quiz.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

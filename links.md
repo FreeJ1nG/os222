@@ -65,6 +65,16 @@ This site shows how to create a backup of the VM you have on Virtualbox. I follo
 2. [How to create a Makefile file](https://www.youtube.com/watch?v=aw9wHbFTnAQ)<br>
 If you find Makefile confusing, go ahead and take a look at this video. It helped me make the Makefile for POP Quiz.
 
+## Week 6
+1. [How to extract files from a tarball](https://phoenixnap.com/kb/extract-tar-gz-files-linux-command-line)<br>
+A good site that shows how to actually extract file from tarballs. Tarballs are essential for encryping and compressing data.
+
+2. [How to find your lost password](https://www.cyberciti.biz/faq/where-are-the-passwords-of-the-users-located-in-linux/)<br>
+This week i lost my password for my VM user. This site shows how to decrypt our user password and regain your password.
+
+3. [How to migrated VM from another PC/Device](https://superuser.com/questions/187598/how-to-open-existing-vms-in-virtualbox)<br>
+I had actually broken my previous Ubuntu installation, so i had to find a way to open the VM on the backed up disk on a Windows device. This site helped a lot with that!
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

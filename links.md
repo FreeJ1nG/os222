@@ -75,6 +75,13 @@ This week i lost my password for my VM user. This site shows how to decrypt our 
 3. [How to migrated VM from another PC/Device](https://superuser.com/questions/187598/how-to-open-existing-vms-in-virtualbox)<br>
 I had actually broken my previous Ubuntu installation, so i had to find a way to open the VM on the backed up disk on a Windows device. This site helped a lot with that!
 
+## Week 7
+1. [What is Virtual Memory?](https://www.youtube.com/watch?v=5lFnKYCZT5o)<br>
+Up to this point, I still had confusions regarding Virtual Memory, how it works, and it's perks. I feel like this video does a great job explaining about Virtual Memory.
+
+2. [What is a thread in Operating System](https://www.geeksforgeeks.org/thread-in-operating-system/)<br>
+This site helps explain what a thread actually is. It includes examples which help explain the topic.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

@@ -82,6 +82,13 @@ Up to this point, I still had confusions regarding Virtual Memory, how it works,
 2. [What is a thread in Operating System](https://www.geeksforgeeks.org/thread-in-operating-system/)<br>
 This site helps explain what a thread actually is. It includes examples which help explain the topic.
 
+## Week 8
+1. [Kernotex LFS Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+This playlist is shows how to build an LFS system from scratch, definitely helped me.
+
+2. [Scheduling Algorithm](https://www.javatpoint.com/os-scheduling-algorithms)<br>
+This is a great article to learn about how scheduling works in operating system. Why it is important, types of scheduler, scheduling criteria, and scheduling algorithms.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

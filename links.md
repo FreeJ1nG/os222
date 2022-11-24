@@ -89,6 +89,10 @@ This playlist is shows how to build an LFS system from scratch, definitely helpe
 2. [Scheduling Algorithm](https://www.javatpoint.com/os-scheduling-algorithms)<br>
 This is a great article to learn about how scheduling works in operating system. Why it is important, types of scheduler, scheduling criteria, and scheduling algorithms.
 
+## Week 9
+1. [Configure Error C if CC is not found](https://geekflare.com/configure-error-c-compiler-cc-is-not-found)<br>
+I had some problems with my GCC installation. This site shows some insight on that.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
